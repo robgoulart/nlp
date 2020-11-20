@@ -1,0 +1,43 @@
+,titulo,categoria_prevista,categoria_original
+97,"['boulos', 'tatto', 'embolam', 'propostas', 'discursos', 'briga', 'voto', 'esquerda', 'sp']",Eleicoes,Eleicoes
+54,"['vice', 'covas', 'luta', 'contra', 'gênero', 'influência', 'modelo', 'creche', 'sob', 'investigação']",Eleicoes,Eleicoes
+14,"['lava', 'jato', 'prevê', 'derrotas', 'anulação', 'delações', 'troca', 'presidência', 'stf']",Casos corrupcao,Lava Jato
+112,"['governo', 'bolsonaro', 'repassou', 'programa', 'michelle', 'r', 'milhões', 'doados', 'testes', 'covid']",Politica Nacional,Politica Nacional
+113,"['stf', 'forma', 'maioria', 'determinar', 'cota', 'financeira', 'candidatos', 'negros', 'eleição', 'deste', 'ano']",Eleicoes,Judiciario
+108,"['programa', 'liderado', 'michelle', 'bolsonaro', 'repassa', 'doações', 'ongs', 'aliadas', 'damares']",Politica Nacional,Politica Nacional
+64,"['laranjal', 'psl', 'lança', 'candidata', 'mina', 'defende', 'bolsonaro']",Eleicoes,Eleicoes
+124,"['barrar', 'russomanno', 'aliados', 'covas', 'reforçam', 'voto', 'útil', 'contra', 'bolsonaro']",Eleicoes,Eleicoes
+92,"['moradores', 'cidade', 'sp', 'admite', 'votar', 'medo', 'coronavírus', 'mostra', 'datafolha']",Eleicoes,Pandemia
+118,"['campanha', 'jaboticabal', 'traz', 'tona', 'disputa', 'interrompeu', 'licença', 'médica']",Eleicoes,Eleicoes
+39,"['corrida', 'apoio', 'moro', 'mobiliza', 'candidaturas', 'sp', 'avaliam', 'peso', 'aval', 'exministro']",Eleicoes,Eleicoes
+114,"['bolsonaro', 'anuncia', 'indicação', 'kássio', 'nunes', 'vaga', 'celso', 'mello', 'stf']",Politica Nacional,Politica Nacional
+93,"['cracolândia', 'sp', 'volta', 'centro', 'debate', 'eleitoral', 'promessas', 'ataques']",Eleicoes,Eleicoes
+87,"['bolsonaro', 'diz', 'pode', 'entrar', 'eleição', 'influenciar', 'paulo', 'santos', 'manaus']",Eleicoes,Eleicoes
+30,"['lewandowski', 'seguiu', 'colegas', 'stf', 'derrubar', 'decisão', 'tse', 'fixar', 'cota', 'negros', 'nesta', 'eleição']",Judiciario,Judiciario
+46,"['assembleia', 'rj', 'começa', 'analisar', 'relatório', 'impeachment', 'witzel', 'entra', 'reta', 'decisiva']",Casos corrupcao,Casos corrupcao
+131,"['universal', 'jogo', 'estratégico', 'nojento', 'diz', 'malafaia', 'sobre', 'apoio', 'kassio', 'nunes', 'stf']",Eleicoes,Politica Nacional
+55,"['eleição', 'jaboticabal', 'primo', 'bolsonaro', 'base', 'prefeito', 'fichasuja', 'rachada']",Eleicoes,Eleicoes
+44,"['doria', 'prevê', 'último', 'trecho', 'rodoanel', 'ante', 'eleições']",Eleicoes,Outros
+80,"['uso', 'dinheiro', 'vivo', 'sustentou', 'campanhas', 'eleitorais', 'família', 'bolsonaro']",Eleicoes,Politica Nacional
+31,"['posse', 'fux', 'elogia', 'lava', 'jato', 'diz', 'stf', 'subserviente', 'outros', 'poderes']",Lava Jato,Judiciario
+12,"['partidos', 'centrão', 'apoiam', 'bolsonaro', 'crescer', 'nordeste']",Politica Nacional,Eleicoes
+15,"['pressionada', 'justiça', 'eleitoral', 'ouve', 'escalada', 'cobranças', 'age', 'diversidade']",Eleicoes,Eleicoes
+69,"['governador', 'empurrado', 'impeachment', 'sc', 'bolsonaristas', 'próprio', 'partido']",Casos corrupcao,Politica Regional
+8,"['executivo', 'ausente', 'congresso', 'dá', 'prioridade', 'área', 'social', 'legislar', 'pandemia']",Eleicoes,Politica Nacional
+132,"['onda', 'bolsonarista', 'republicanos', 'psl', 'viram', 'campeões', 'candidatos', 'vereador', 'grandes', 'cidades']",Eleicoes,Eleicoes
+109,"['exadvogado', 'bolsonaros', 'wassef', 'vira', 'réu', 'sob', 'acusação', 'peculato', 'lavagem', 'dinheiro']",Eleicoes,Casos corrupcao
+23,"['partidos', 'admitem', 'uso', 'candidatas', 'laranjas', 'tentam', 'blindar', 'eleições']",Eleicoes,Eleicoes
+111,"['contra', 'vidraças', 'russomanno', 'adota', 'estratégia', 'assumir', 'erros', 'vídeos', 'life']",Eleicoes,Eleicoes
+17,"['disputa', 'recursos', 'ações', 'acirra', 'embate', 'militares', 'civis', 'governo', 'bolsonaro']",Eleicoes,Politica Nacional
+91,"['entidades', 'afro', 'especialistas', 'defendem', 'mecanismos', 'fiscalização', 'autodeclaração', 'cor']",Eleicoes,Outros
+66,"['apesar', 'promessa', 'ficar', 'eleição', 'bolsonaro', 'faz', 'dobradinha', 'russomanno', 'rede', 'social']",Eleicoes,Eleicoes
+90,"['lava', 'jato', 'denuncia', 'wassef', 'exadvogado', 'bolsonaros', 'sob', 'acusação', 'lavagem', 'dinheiro']",Casos corrupcao,Casos corrupcao
+78,"['tv', 'candidatos', 'jaboticabal', 'apostam', 'live', 'horário', 'eleitoral', 'rádio']",Eleicoes,Eleicoes
+119,"['deltan', 'coordenador', 'lava', 'jato', 'curitiba', 'inclui', 'discrição', 'seguir', 'trabalho', 'antecessor']",Lava Jato,Lava Jato
+120,"['escolha', 'kassio', 'prestigia', 'ala', 'stf', 'firma', 'mudança', 'paradigma', 'bolsonaro']",Eleicoes,Politica Nacional
+95,"['russomanno', 'pode', 'usar', 'pandemia', 'expor', 'menos', 'evitar', 'desgaste', 'eleição', 'paulo']",Eleicoes,Eleicoes
+9,"['rj', 'vive', 'intervenção', 'branca', 'ser', 'governado', 'alguém', 'sobrenatural', 'diz', 'witzel', 'entrevista', 'folha']",Eleicoes,Politica Regional
+42,"['repórter', 'fotográfico', 'capta', 'nova', 'rotina', 'poderes', 'brasília', 'esvaziada', 'pandemia']",Eleicoes,Outros
+29,"['fux', 'assume', 'comando', 'stf', 'missão', 'equilibrar', 'poderes', 'impedir', 'derrotas', 'lava', 'jato']",Judiciario,Judiciario
+104,"['metade', 'chapas', 'prefeituras', 'formada', 'apenas', 'candidatos', 'brancos']",Eleicoes,Eleicoes
+68,"['núcleos', 'afro', 'partidos', 'unem', 'contra', 'negro', 'estreia', 'cota', 'eleição']",Eleicoes,Eleicoes
